@@ -1,0 +1,16 @@
+body {
+    background-image:  linear-gradient(rgb(3, 3, 98), rgb(121, 132, 247));
+ }
+ #image {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+   max-width: 100%;
+   border-radius: 30px;
+ }
+ 
+ h1, p, a,figcaption {
+   color: white;
+   
+ }
